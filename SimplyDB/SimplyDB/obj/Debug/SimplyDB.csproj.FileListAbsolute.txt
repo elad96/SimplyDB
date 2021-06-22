@@ -1,0 +1,190 @@
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\SimplyDB.exe.config
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\SimplyDB.exe
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\SimplyDB.pdb
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\SimplyDB.csprojAssemblyReference.cache
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\App.g.cs
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\SimplyDB_MarkupCompile.cache
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\SimplyDB_MarkupCompile.lref
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\SimplyDB.g.resources
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\SimplyDB.Properties.Resources.resources
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\SimplyDB.csproj.GenerateResource.cache
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\SimplyDB.csproj.CoreCompileInputs.cache
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\SimplyDB.exe
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\SimplyDB.pdb
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\SimplyDB.exe.config
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\SimplyDB.exe
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\SimplyDB.pdb
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\SimplyDB.csprojAssemblyReference.cache
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\App.g.cs
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\SimplyDB_MarkupCompile.cache
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\SimplyDB_MarkupCompile.lref
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\SimplyDB.g.resources
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\SimplyDB.Properties.Resources.resources
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\SimplyDB.csproj.GenerateResource.cache
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\SimplyDB.csproj.CoreCompileInputs.cache
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\SimplyDB.exe
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\SimplyDB.pdb
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\View\MainMenu\MainWindow.g.cs
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\View\SelectMenu\SelectWindow.g.cs
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\View\TableMenu\CreateTableWindow.g.cs
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\View\ViewMenu\CreateViewWindow.g.cs
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\View\MainMenu\MainWindow.baml
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\View\SelectMenu\SelectWindow.baml
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\View\TableMenu\CreateTableWindow.baml
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\View\ViewMenu\CreateViewWindow.baml
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\System.Data.SQLite.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\System.Data.SQLite.xml
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\SimplyDB.csproj.CopyComplete
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\System.Data.SQLite.dll
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\System.Data.SQLite.xml
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\View\MainMenu\MainWindow.g.cs
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\View\SelectMenu\SelectWindow.g.cs
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\View\TableMenu\CreateTableWindow.g.cs
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\View\ViewMenu\CreateViewWindow.g.cs
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\View\MainMenu\MainWindow.baml
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\View\SelectMenu\SelectWindow.baml
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\View\TableMenu\CreateTableWindow.baml
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\View\ViewMenu\CreateViewWindow.baml
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\SimplyDB.csproj.CopyComplete
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\SimplyDB.exe.config
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\SimplyDB.exe
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\SimplyDB.pdb
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\SimplyDB.csprojAssemblyReference.cache
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\View\MainMenu\MainWindow.g.cs
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\View\SelectMenu\SelectWindow.g.cs
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\View\TableMenu\CreateTableWindow.g.cs
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\View\ViewMenu\CreateViewWindow.g.cs
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\App.g.cs
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\SimplyDB_MarkupCompile.cache
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\SimplyDB_MarkupCompile.lref
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\View\MainMenu\MainWindow.baml
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\View\SelectMenu\SelectWindow.baml
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\View\TableMenu\CreateTableWindow.baml
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\View\ViewMenu\CreateViewWindow.baml
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\SimplyDB.g.resources
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\SimplyDB.Properties.Resources.resources
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\SimplyDB.csproj.GenerateResource.cache
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\SimplyDB.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\SimplyDB.csproj.CopyComplete
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\SimplyDB.exe
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\SimplyDB.pdb
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\System.Buffers.dll
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\System.Memory.dll
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\System.Buffers.xml
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\System.Memory.xml
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ariel\Desktop\Project\SimplyDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\View\TableMenu\RenameCol.g.cs
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\View\TableMenu\RenameCol.baml
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\View\TableMenu\CreateColumn.g.cs
+C:\Users\Ariel\Desktop\Project\SimplyDB\obj\Debug\View\TableMenu\CreateColumn.baml
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\System.Buffers.dll
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\System.Memory.dll
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\System.Buffers.xml
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\System.Memory.xml
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\View\TableMenu\CreateColumn.g.cs
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\View\TableMenu\RenameCol.g.cs
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\View\TableMenu\CreateColumn.baml
+C:\Users\Fax4u\Desktop\Project\SimplyDB\SimplyDB\obj\Debug\View\TableMenu\RenameCol.baml
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\System.Buffers.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\System.Memory.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\System.Buffers.xml
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\System.Memory.xml
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\View\TableMenu\CreateColumn.g.cs
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\View\TableMenu\RenameCol.g.cs
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\View\TableMenu\CreateColumn.baml
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\obj\Debug\View\TableMenu\RenameCol.baml
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\source\repos\SimplyDB\SimplyDB\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\SimplyDB.exe.config
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\SimplyDB.exe
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\SimplyDB.pdb
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\System.Buffers.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\System.Data.SQLite.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\System.Memory.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\System.Buffers.xml
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\System.Data.SQLite.xml
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\System.Memory.xml
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\SimplyDB.csprojAssemblyReference.cache
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\View\MainMenu\MainWindow.g.cs
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\View\TableMenu\CreateColumn.g.cs
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\View\TableMenu\CreateTableWindow.g.cs
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\View\TableMenu\RenameCol.g.cs
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\View\ViewMenu\CreateViewWindow.g.cs
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\App.g.cs
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\SimplyDB_MarkupCompile.cache
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\SimplyDB_MarkupCompile.lref
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\View\MainMenu\MainWindow.baml
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\View\TableMenu\CreateColumn.baml
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\View\TableMenu\CreateTableWindow.baml
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\View\TableMenu\RenameCol.baml
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\View\ViewMenu\CreateViewWindow.baml
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\SimplyDB.g.resources
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\SimplyDB.Properties.Resources.resources
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\SimplyDB.csproj.GenerateResource.cache
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\SimplyDB.csproj.CoreCompileInputs.cache
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\SimplyDB.csproj.CopyComplete
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\SimplyDB.exe
+C:\Users\Elad\Desktop\‏‏תיקיה חדשה\SimplyDB\obj\Debug\SimplyDB.pdb

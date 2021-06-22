@@ -1,0 +1,42 @@
+﻿<Window x:Class="SimplyDB.View.TableMenu.CreateColumn"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimplyDB.View.TableMenu"
+        mc:Ignorable="d"
+        Title="CreateColumn" Height="400" Width="350">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Name" FontWeight="Bold" FontSize="14"/>
+        <TextBox Text="{Binding Path=ColName}" Grid.Row="0" Grid.Column="1" Margin="15" x:Name="NameInput" />
+
+        <TextBlock Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Data Type" FontWeight="Bold" FontSize="14"/>
+        <ComboBox Grid.Row="1" Grid.Column="1" Margin="15" x:Name="TypeInput" SelectionChanged="TypeInput_SelectionChanged">
+            <ComboBoxItem Content="INTEGER" />
+            <ComboBoxItem Content="REAL" />
+            <ComboBoxItem Content="TEXT" />
+            <ComboBoxItem Content="BLOB" />
+        </ComboBox>
+        
+        <TextBlock Grid.Row="2" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Not Null" FontWeight="Bold" FontSize="14"/>
+        <CheckBox Grid.Row="2" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="NotNullInput" IsChecked="{Binding Path=ColNotNull}" />
+
+        <TextBlock Grid.Row="3" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Default Value" FontWeight="Bold" FontSize="14"/>
+        <TextBox Grid.Row="3" Grid.Column="1" Margin="15" x:Name="DefaultValueInput" Text="{Binding Path=ColDefaultValue}" />
+
+        <Button Grid.Row="4" Grid.Column="0" Content="Confirm" x:Name="ConfirmButton" Margin="10" FontWeight="Bold" Click="ConfirmButton_Click"/>
+        <Button Grid.Row="4" Grid.Column="1" Content="Cancel" x:Name="CancelButton" Margin="10" FontWeight="Bold" Click="CancelButton_Click"/>
+    </Grid>
+</Window>
